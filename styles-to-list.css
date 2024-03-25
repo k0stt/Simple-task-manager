@@ -65,3 +65,6 @@ small{
 	color: white;
 	border-width: 0px;
 }
+.rotated{
+	transform: rotate(90deg);
+}
